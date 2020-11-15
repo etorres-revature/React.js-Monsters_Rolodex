@@ -27,6 +27,15 @@ This project is a sample of the React.js library and its component functionality
 
 ## Usage 
 
+[Monsters Rolodex](https://etorres-revature.github.io/React.js-Monsters_Rolodex/) is comprised of ten monsters whose names are pulled from the [{JSON} Placeholder users API](https://jsonplaceholder.typicode.com/) and whose pictures are form the [ROBOHASH API](https://robohash.org/).
+
+![MONSTERS ROLODEX home page](./screenshots/monster-rolodex-home.png)
+
+The [Monsters Rolodex](https://etorres-revature.github.io/React.js-Monsters_Rolodex/) app exists in the class-based component giving it access to the State object.  The monster cards are rendered through functional components, which gain access to the State object through the "props" (short for properties)object argument.
+
+[Monsters Rolodex](https://etorres-revature.github.io/React.js-Monsters_Rolodex/) also features a filtering function.  Users can type information into the input, and the app will display only those monsters with the input letters in their name.
+
+![MONSTERS ROLODEX home page](./screenshots/monster-rolodex-filter.png)
 
 
 ## Guidelines for Contributing
