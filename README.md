@@ -71,7 +71,7 @@ Test early; test often.
 
 **React.js** is an open-source, front-end, JavaScript library for building user interface components. React.js can be used as a base in the development of single-page or mobile applications.  It is only concerned with rendering data to the DOM.
 
-*React.js* content borrowed from <a target="_blank" rel="noopener noreferrer">[this page](https://en.wikipedia.org/wiki/React_(web_framework)#:~:text=React%20(also%20known%20as%20React,single%2Dpage%20or%20mobile%20applications.).</a>
+*React.js* content borrowed from <a target="_blank" rel="noopener noreferrer">[this page](https://en.wikipedia.org/wiki/React).</a>
 
 ### Author 
 
